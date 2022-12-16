@@ -53,6 +53,7 @@ Partial Class TambahKoleksi
         Me.TxtDeks = New System.Windows.Forms.RichTextBox()
         Me.OpenFilePicture1 = New System.Windows.Forms.OpenFileDialog()
         Me.PicBox = New System.Windows.Forms.PictureBox()
+        Me.BtnCoba = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         CType(Me.PicBox, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -344,11 +345,22 @@ Partial Class TambahKoleksi
         Me.PicBox.TabIndex = 24
         Me.PicBox.TabStop = False
         '
+        'BtnCoba
+        '
+        Me.BtnCoba.Location = New System.Drawing.Point(134, 807)
+        Me.BtnCoba.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
+        Me.BtnCoba.Name = "BtnCoba"
+        Me.BtnCoba.Size = New System.Drawing.Size(150, 37)
+        Me.BtnCoba.TabIndex = 25
+        Me.BtnCoba.Text = "Tambah Koleksi"
+        Me.BtnCoba.UseVisualStyleBackColor = True
+        '
         'TambahKoleksi
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(698, 861)
+        Me.Controls.Add(Me.BtnCoba)
         Me.Controls.Add(Me.PicBox)
         Me.Controls.Add(Me.TxtDeks)
         Me.Controls.Add(Me.BtnTambahKoleksi)
@@ -415,4 +427,5 @@ Partial Class TambahKoleksi
     Friend WithEvents TxtDeks As RichTextBox
     Friend WithEvents OpenFilePicture1 As OpenFileDialog
     Friend WithEvents PicBox As PictureBox
+    Friend WithEvents BtnCoba As Button
 End Class

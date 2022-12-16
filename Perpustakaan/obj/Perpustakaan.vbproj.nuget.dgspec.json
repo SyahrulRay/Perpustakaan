@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\Visual_Tugas_6_2107411061_Syahrul Rayhansyah\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj": {}
+    "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\perpustakaan\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\Visual_Tugas_6_2107411061_Syahrul Rayhansyah\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj": {
+    "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\perpustakaan\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\Visual_Tugas_6_2107411061_Syahrul Rayhansyah\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj",
+        "projectUniqueName": "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\perpustakaan\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj",
         "projectName": "Perpustakaan",
-        "projectPath": "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\Visual_Tugas_6_2107411061_Syahrul Rayhansyah\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj",
+        "projectPath": "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\perpustakaan\\Perpustakaan\\Perpustakaan\\Perpustakaan.vbproj",
         "packagesPath": "C:\\Users\\rayha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\Visual_Tugas_6_2107411061_Syahrul Rayhansyah\\Perpustakaan\\Perpustakaan\\obj\\",
+        "outputPath": "C:\\Users\\rayha\\OneDrive\\Dokumen\\SEMESTER3\\Pemrograman Visual\\perpustakaan\\Perpustakaan\\Perpustakaan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rayha\\AppData\\Roaming\\NuGet\\NuGet.Config",
